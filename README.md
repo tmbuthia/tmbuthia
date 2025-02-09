@@ -28,14 +28,7 @@ Analyzing Portuguese naval battles (1583–1663) using machine learning models.
 ✈️ **[Airline Safety Clustering](https://github.com/yourusername/airline-safety-clustering)**  
 Applying agglomerative and divisive clustering to analyze airline safety records.  
 
----
-
-## 📈 GitHub Stats  
-![Timothy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
-
----
+------
 
 ## 🌍 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  

@@ -1,13 +1,17 @@
-<h1 align="center">👋 Hi there, I'm Timothy!</h1>
+👋 Hi there, I'm Timothy!</h1>
 
-<p align="center">
 🚀 Data Scientist | Machine Learning Enthusiast | Aspiring Cloud Engineer  
 📊 Passionate about predictive modeling, NLP, and AI fairness  
 ⚡ Exploring cloud platforms (AWS, GCP, Azure) and big data tools (PySpark)  
-</p>
 
 ---
-
+## 🛠️ Technologies & Tools
+- **Programming**: Python, R, SQL  
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Keras  
+- **Big Data**: PySpark, Hadoop  
+- **Cloud**: AWS, GCP, Azure  
+- **Web Development**: Flask, HTML, CSS
+---
 ## 🛠️ Tech Stack  
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

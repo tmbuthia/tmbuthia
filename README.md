@@ -9,7 +9,7 @@
 - **Programming**: Python, R, SQL  
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Keras  
 - **Big Data**: PySpark, Hadoop  
-- **Cloud**: AWS, GCP, Azure  
+- **Cloud**: AWS, Azure  
 - **Web Development**: Flask, HTML, CSS
 ---
 ## 🛠️ Tech Stack  

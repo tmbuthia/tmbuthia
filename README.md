@@ -2,7 +2,7 @@
 
 🚀 Data Scientist | Machine Learning Enthusiast | Aspiring Cloud Engineer  
 📊 Passionate about predictive modeling, NLP, and AI fairness  
-⚡ Exploring cloud platforms (AWS, GCP, Azure) and big data tools (PySpark)  
+⚡ Exploring cloud platforms (AWS, Azure) and big data tools (PySpark)  
 
 ---
 ## 🛠️ Technologies & Tools

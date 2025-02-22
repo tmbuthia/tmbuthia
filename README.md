@@ -10,7 +10,7 @@
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Keras  
 - **Big Data**: PySpark, Hadoop  
 - **Cloud**: AWS, Azure  
-- **Web Development**: Flask, HTML, CSS
+- **Web Development**: Flask, Dash
 ---
 ## 🛠️ Tech Stack  
 <div align="center">

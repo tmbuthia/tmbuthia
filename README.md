@@ -27,18 +27,22 @@
 
 ---
 
-## 🔥 Featured Projects  
-🎯 **[⚾ Predicting MLB World Series Outcomes](https://github.com/tmbuthia/mlb-world-series)**  
-Using SVM models and parameter optimization to predict which teams make it to the World Series.  
+## 🔥 Featured Projects   
 
-📝 **[📜 Automated Essay Grading](https://github.com/tmbuthia/essay-grading)**  
-Applying NLP techniques to automatically score student essays based on rubric-based features.  
-
-⚔️ **[🚢 Predicting Naval Battle Outcomes](https://github.com/tmbuthia/naval-battles)**  
+⚔️ **[🚢 Predicting Naval Battle Outcomes](https://github.com/tmbuthia/Predicting-Portuguese-Naval-Battle-Outcomes-Using-SVM-and-Classifiers)**  
 Analyzing Portuguese naval battles (1583–1663) using machine learning models.  
 
-✈️ **[🛫 Airline Safety Clustering](https://github.com/tmbuthia/airline-safety-clustering)**  
+📝 **[📜 YouTube Spam Filter Using Naive Bayes](https://github.com/tmbuthia/YouTube-Spam-Filter-Using-Naive-Bayes)**  
+Implementing a spam filter using the Naive Bayes classification approach to classify YouTube comments as spam or non-spam. 
+
+⚔️ **[🏗️ Steel Plate Fault Detection](https://github.com/tmbuthia/Steel-Plates-Faults-Prediction-Using-Neural-Networks)**  
+Predicting types of faults in steel plates using a neural network model.  
+
+✈️ **[🛫 Airline Safety Clustering](https://github.com/tmbuthia/Airline-Safety-Clustering-Project)**  
 Applying agglomerative and divisive clustering to analyze airline safety records.  
+
+🎯 **[⚾ Predicting MLB World Series Outcomes](https://github.com/tmbuthia/mlb-world-series)**  
+Using SVM models and parameter optimization to predict which teams make it to the World Series. 
 
 ---
 

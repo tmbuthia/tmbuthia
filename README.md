@@ -28,16 +28,16 @@
 ---
 
 ## 🔥 Featured Projects  
-🎯 **[⚾ Predicting MLB World Series Outcomes](https://github.com/yourusername/mlb-world-series)**  
+🎯 **[⚾ Predicting MLB World Series Outcomes](https://github.com/tmbuthia/mlb-world-series)**  
 Using SVM models and parameter optimization to predict which teams make it to the World Series.  
 
-📝 **[📜 Automated Essay Grading](https://github.com/yourusername/essay-grading)**  
+📝 **[📜 Automated Essay Grading](https://github.com/tmbuthia/essay-grading)**  
 Applying NLP techniques to automatically score student essays based on rubric-based features.  
 
-⚔️ **[🚢 Predicting Naval Battle Outcomes](https://github.com/yourusername/naval-battles)**  
+⚔️ **[🚢 Predicting Naval Battle Outcomes](https://github.com/tmbuthia/naval-battles)**  
 Analyzing Portuguese naval battles (1583–1663) using machine learning models.  
 
-✈️ **[🛫 Airline Safety Clustering](https://github.com/yourusername/airline-safety-clustering)**  
+✈️ **[🛫 Airline Safety Clustering](https://github.com/tmbuthia/airline-safety-clustering)**  
 Applying agglomerative and divisive clustering to analyze airline safety records.  
 
 ---
@@ -45,11 +45,11 @@ Applying agglomerative and divisive clustering to analyze airline safety records
 ## 🌍 Let's Connect!  
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/tmbuthia"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:mbuthiakahiga1@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 💡 **Currently Learning:** OCR applications, PySpark, cloud computing (AWS, GCP, Azure)  
-🎯 **Looking for opportunities** in AI, data science, and product analytics!  
+🎯 **Looking for opportunities** in AI, Data Science, and Data Analytics!  
